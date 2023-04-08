@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": true,
+        "target": "ESNext",
+        "outDir": "compiled",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "removeComments": false,
+        "suppressImplicitAnyIndexErrors": true,
+        "strictPropertyInitialization": true,
+        "noImplicitOverride": true,
+        "noImplicitThis": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": false,
+        "esModuleInterop": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

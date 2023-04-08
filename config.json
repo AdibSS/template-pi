@@ -1,0 +1,12 @@
+{
+    "ipAddress": "http://localhost",
+    "portFE": 4200,
+    "portOnline": 4300,
+    "portUse": 4300,
+    "mysql_config": {   
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "api-noob"
+    }
+}
